@@ -1,7 +1,7 @@
 # Replace with the name which you want to give to your EKS cluster
 # Cluster name can have only lowercase alphanumeric characters and hyphens
 # For example: "upyog-demo"
-cluster_name: "demo"
+cluster_name: "demo2"
 
 # Replace with ssh key name you want
 ssh_key_name: "demo-ssh-key" 
